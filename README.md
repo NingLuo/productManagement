@@ -6,3 +6,6 @@ This is an single page application build with AngularJS and Bootstrap
 
 ##Basic Product Information Page
 ![basic_product_information](https://cloud.githubusercontent.com/assets/16660134/24050780/561ad9a2-0b06-11e7-8556-624fc4e1e3cd.png)
+
+##Price Details Page
+![price_details](https://cloud.githubusercontent.com/assets/16660134/24050813/7d6a8cf0-0b06-11e7-81dd-c83bdeb5378b.png)
